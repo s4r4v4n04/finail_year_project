@@ -8,50 +8,6 @@ Intrusion detection system (IDS) has become an essential layer in all the latest
 ## Keywords : 
 Intrusion detection, federated learning, deep neural networks, machine learning, deep learning
 
-## How to run the code?
-### For **Classical Machine Learning**
-* Run `all.py` [[Link]](https://github.com/rahulvigneswaran/Intrusion-Detection-Systems/blob/master/all.py)
-### For **Deep Neural Network (100 iterations)** 
-* Run `dnn1.py` for 1-hidden layer network and run `dnn1acc.py` for finding it's accuracy. [[Link]](https://github.com/rahulvigneswaran/Intrusion-Detection-Systems/tree/master/dnn)
-* Run `dnn2.py` for 2-hidden layer network and run `dnn2acc.py` for finding it's accuracy. [[Link]](https://github.com/rahulvigneswaran/Intrusion-Detection-Systems/tree/master/dnn)
-* Run `dnn3.py` for 3-hidden layer network and run `dnn3acc.py` for finding it's accuracy. [[Link]](https://github.com/rahulvigneswaran/Intrusion-Detection-Systems/tree/master/dnn)
-* Run `dnn4.py` for 4-hidden layer network and run `dnn4acc.py` for finding it's accuracy. [[Link]](https://github.com/rahulvigneswaran/Intrusion-Detection-Systems/tree/master/dnn)
-* Run `dnn5.py` for 5-hidden layer network and run `dnn5acc.py` for finding it's accuracy. [[Link]](https://github.com/rahulvigneswaran/Intrusion-Detection-Systems/tree/master/dnn)
-
-### For **Deep Neural Network (1000 iterations)** 
-* Run `dnn1.py` for 1-hidden layer network and run `dnn1acc.py` for finding it's accuracy. [[Link]](https://github.com/rahulvigneswaran/Intrusion-Detection-Systems/tree/master/dnn1000)
-* Run `dnn2.py` for 2-hidden layer network and run `dnn2acc.py` for finding it's accuracy. [[Link]](https://github.com/rahulvigneswaran/Intrusion-Detection-Systems/tree/master/dnn1000)
-* Run `dnn3.py` for 3-hidden layer network and run `dnn3acc.py` for finding it's accuracy. [[Link]](https://github.com/rahulvigneswaran/Intrusion-Detection-Systems/tree/master/dnn1000)
-* Run `dnn4.py` for 4-hidden layer network and run `dnn4acc.py` for finding it's accuracy. [[Link]](https://github.com/rahulvigneswaran/Intrusion-Detection-Systems/tree/master/dnn1000)
-* Run `dnn5.py` for 5-hidden layer network and run `dnn5acc.py` for finding it's accuracy. [[Link]](https://github.com/rahulvigneswaran/Intrusion-Detection-Systems/tree/master/dnn1000)
-
-
-
-## Recommended Citation :
-If you use this repository in your research, cite the the following papers :
-
-  1. Rahul, V.K., Vinayakumar, R., Soman, K.P., & Poornachandran, P. (2018). Evaluating Shallow and Deep Neural Networks for Network Intrusion Detection Systems in Cyber Security. 2018 9th International Conference on Computing, Communication and Networking Technologies (ICCCNT), 1-6.
-  2. Rahul-Vigneswaran, K., Poornachandran, P., & Soman, K.P. (2019). A Compendium on Network and Host based Intrusion Detection Systems. CoRR, abs/1904.03491.
-  
-  ### Bibtex Format :
-```bib
-@article{Rahul2018EvaluatingSA,
-  title={Evaluating Shallow and Deep Neural Networks for Network Intrusion Detection Systems in Cyber Security},
-  author={Vigneswaran K Rahul and R. Vinayakumar and K. P. Soman and Prabaharan Poornachandran},
-  journal={2018 9th International Conference on Computing, Communication and Networking Technologies (ICCCNT)},
-  year={2018},
-  pages={1-6}
-  }
-
-@article{RahulVigneswaran2019ACO,
-  title={A Compendium on Network and Host based Intrusion Detection Systems},
-  author={K Rahul-Vigneswaran and Prabaharan Poornachandran and K. P. Soman},
-  journal={CoRR},
-  year={2019},
-  volume={abs/1904.03491}
-  }
-```
-
 ## Issue / Want to Contribute ? :
 Open a new issue or do a pull request incase your are facing any difficulty with the code base or you want to contribute to it.
 
