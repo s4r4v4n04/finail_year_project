@@ -1,0 +1,30 @@
+# Ignore DNN folders and files
+dnn/
+dnn1000/
+**/dnn*.py
+**/dnn*.h5
+**/dnn*.hdf5
+**/dnnres/
+
+# Ignore classical ML files
+classical/
+all.py
+all.py.save*
+all_newdataset-NONEED.py
+
+# Ignore other non-federated files
+Proposed/
+intrusion/
+newDataset/
+*.pdf
+*.txt
+*.csv
+*.xlsx
+*.h5
+*.hdf5
+*.save
+
+# Keep only Federated folder and essential files
+!Federated/
+!README.md
+!.gitignore
